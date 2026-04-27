@@ -1,2 +1,2 @@
 # Quantum-Information-with-C
-A series of follow-along exercises as I study Quantum Information using the libtensr library.
+Hands-on quantum information in C — implementing state vectors, unitary operations, and tensor products from scratch using libtensr.
