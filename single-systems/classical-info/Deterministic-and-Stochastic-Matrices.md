@@ -1,5 +1,3 @@
-# libquantum — Deterministic & Stochastic Matrix Demo
-
 A small program demonstrating how deterministic functions over a finite state
 space can be lifted into matrix form, and how those matrices compose to
 represent probabilistic (stochastic) operations.
