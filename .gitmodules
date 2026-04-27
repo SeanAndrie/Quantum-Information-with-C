@@ -1,0 +1,6 @@
+[submodule "libtensr"]
+	path = libtensr
+	url = git@github.com:SeanAndrie/libtensr.git
+[submodule "libft"]
+	path = libft
+	url = git@github.com:SeanAndrie/libft-adapt.git
