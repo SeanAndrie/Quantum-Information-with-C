@@ -1,4 +1,4 @@
-NAME := classical_info
+NAME := quantum_info
 CC := cc
 CFLAGS := -Wall -Wextra -I../../libft/includes -I../../libtensr/includes -I../../libquantum/includes
 LDFLAGS := -L../../libft -L../../libtensr -L../../libquantum -lquantum -ltensr -lft -lm

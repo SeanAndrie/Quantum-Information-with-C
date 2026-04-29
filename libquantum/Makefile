@@ -7,7 +7,8 @@ SRC_DIR := src
 OBJ_DIR := obj
 
 SRCS := $(addprefix $(SRC_DIR)/, \
-			$(addprefix basis/, basis_bra.c basis_ket.c))
+			$(addprefix basis/, basis_bra.c basis_ket.c) \
+			$(addprefix states/, quantum_state.c))
 OBJS := $(SRCS:$(SRC_DIR)/%.c=$(OBJ_DIR)/%.o)
 
 all: $(NAME)
